@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "phong-dn",
+  "version": "0.1.0",
+  "description": "Personal coding workflow: plan → implement → final-check",
+  "author": {
+    "name": "Phongdnh-uit",
+    "email": "dangnguyenhuyphong@gmail.com"
+  },
+  "skills": [
+    "./skills/"
+  ]
+}
